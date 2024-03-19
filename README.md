@@ -1,4 +1,4 @@
-# Fire Escape System
+# Fire-Drill-Assistant
 
 The Fire Escape System is a software tool designed to assist in emergency evacuations from multi-floor buildings. This system calculates the shortest paths from specified starting points to all rooms on each floor, aiding occupants in swiftly navigating to safety during critical situations.
 
