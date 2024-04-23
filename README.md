@@ -50,3 +50,14 @@ The Fire Escape System is a software tool designed to assist in emergency evacua
 
 Contributions and healthy optimizations are always welcomed!!
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact the project maintainer:
+
+https://www.linkedin.com/in/raj-tyagi-83765b21b/
+
+
