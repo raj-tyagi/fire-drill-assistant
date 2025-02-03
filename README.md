@@ -2,7 +2,7 @@
  
 The Fire Escape System is a software tool designed to assist in emergency evacuations from multi-floor buildings. This system calculates the shortest paths from specified starting points to all rooms on each floor, aiding occupants in swiftly navigating to safety during critical situations.
 
-## Features
+## Features 
 
 - **Floor Plan Input:** Users can input detailed floor plans, including room layouts and distances.
   
